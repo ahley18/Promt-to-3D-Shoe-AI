@@ -1,7 +1,7 @@
 import requests
 import os
 
-API_KEY = "sk-616Kg6eRbsM44fDUSVCLBH8rpAk1XFZq5G43gB23dMBRkDah"  # Replace with actual key safely
+API_KEY = "-------------------------------------------------------------------"  # Replace with actual key safely
 
 user_prompt = input('Enter prompt: ')
 
