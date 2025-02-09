@@ -3,7 +3,7 @@ An AI-powered system that transforms text prompts into realistic 3D shoe models 
 
 ## 🛠 Tools Used
 - Python
-- LLM and 3D GenAI models from Stability AI
+- LLM and 3D GenAI models from Stability AI (https://stability.ai)
 
 ## 📌 How to Use
 1. **Run the Script**: Execute the main script by running:
